@@ -16,6 +16,7 @@ class Page1 extends StatelessWidget{
       ),
       body: Column(
 	child:Text("This is Edited for Seetigns!")
+	      "EDITED BY GAURI!"
       );
 
   }
