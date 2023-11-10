@@ -15,7 +15,7 @@ class Page1 extends StatelessWidget{
         title:const Text('Login Page'),
       ),
       body: Column(
-	child:Text("This is for Gauri!")
+	child:Text("This is Edited for Seetigns!")
       );
 
   }
