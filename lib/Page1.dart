@@ -15,7 +15,7 @@ class Page1 extends StatelessWidget{
         title:const Text('Login Page'),
       ),
       body:const Center(
-        child:Text("Edited By Aaditya!")
+        child:Text("This has Been Edited While Trying")
       ),
       );
 
