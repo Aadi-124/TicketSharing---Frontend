@@ -14,9 +14,14 @@ class Page1 extends StatelessWidget{
       appBar:AppBar(
         title:const Text('Login Page'),
       ),
+<<<<<<< HEAD
       body:const Center(
         child:Text("This is for main")
       ),
+=======
+      body: Column(
+	child:Text("This is Edited for Seetigns!")
+>>>>>>> Gauri
       );
 
   }
